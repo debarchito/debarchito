@@ -1,3 +1,5 @@
+<img align="botom" src="https://gpvc.arturio.dev/debarchito" width="145px" height="25">
+
 ### Debarchito Nath
 - 17 years old
 - Uses TypeScript for Web Development and Node.js for light-weight servers or serverless platforms
