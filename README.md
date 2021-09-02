@@ -11,7 +11,7 @@
 - Uses Go for small standalone projects
 - Uses Rust for systems programming
 - A Physics and Mathematics enthusiast
-- Works on Discord bots: discord.js and discord.py
+- Works on Discord bots: discord.js and discord.py (switched to pycord) 
 - Currently working on "Project Sakura"
 
 <br>
