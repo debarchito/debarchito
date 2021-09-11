@@ -6,6 +6,7 @@
     - Svelte
     - PostCSS + TailwindCSS
     - Vite (esbuild + Rollup)
+    - swc
 - Uses Rust and/or Go for heavy-duty servers
 - Uses Python and/or Julia for Machine Learning
 - Uses Go for small standalone projects
