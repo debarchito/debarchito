@@ -8,12 +8,11 @@
     - PostCSS + TailwindCSS
     - Vite (esbuild + Rollup)
     - swc
-- Uses Rocket (Rust) for heavy-duty servers
-- Uses Python and/or Julia for Machine Learning
-- Uses Go for small standalone projects
+- Uses Actix Web for heavy-duty servers
+- Uses Julia for Machine Learning and Scientific Computation
 - Uses Rust for systems programming
 - A Physics and Mathematics enthusiast
-- Works on Discord bots: discord.js and discord.py (switched to pycord) 
+- Works on Discord bots: discord.js
 - Currently working on "Project Sakura"
 
 <br>
