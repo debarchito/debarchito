@@ -1,4 +1,3 @@
-<img align="botom" src="https://gpvc.arturio.dev/debarchito" width="145px" height="25">
 <img src="https://discord.c99.nl/widget/theme-3/739497344780992564.png">
 
 ### Debarchito Nath
