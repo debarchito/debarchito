@@ -1,5 +1,5 @@
 <!-- <img src="https://discord.c99.nl/widget/theme-3/739497344780992564.png"> -->
-<img src="https://discord-readme-badge.vercel.app/api?id=739497344780992564" alt="Discord" align="right" width=320/>
+<img src="https://discord-readme-badge.vercel.app/api?id=739497344780992564" alt="Discord" />
 
 ### Debarchito Nath (a.k.a αη∂єω)
 - 17 years old
