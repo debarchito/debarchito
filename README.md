@@ -1,19 +1,22 @@
-<img src="https://discord.c99.nl/widget/theme-3/739497344780992564.png">
+<!-- <img src="https://discord.c99.nl/widget/theme-3/739497344780992564.png"> -->
+<img src="https://discord-readme-badge.vercel.app/api?id=739497344780992564" alt="Discord" align="right" width=320/>
 
-### Debarchito Nath
+### Debarchito Nath (a.k.a αη∂єω)
 - 17 years old
-- I use TypeScript for Web Development and Node.js for light-weight servers or serverless platforms
-- Svelte is my goto choice for web stack
-- SvelteKit is my goto Svelte framework
-- PostCSS + TailwindCSS is my favourite CSS combo
-- I like to use Vite for medium to large projects
-- I like to use swc with Rollup for small/standalone stuff
-- I use Actix Web for heavy-duty servers now (switched from Rocket)
-- I use a combo of Julia and Rust for all my scientific needs outside school (which teaches in Python)
-- I love Rust and I love writing low-level and performant tools in it
+- [Rust](https://rust-lang.org/) is my primary programming language. Followed by [TypeScript](https://typescriptlang.org/), [Julia](https://julialang.org/), [Elixir](https://elixir-lang.org/) and [Python](https://python.org/)
+- I use [Node.js](https://nodejs.org/) for web development
+- I have been playing with [Deno](https://deno.land/) for a while now
+- [Svelte](https://svelte.dev/) is my goto JavaScript framework
+- [SvelteKit](https://kit.svelte.dev/) is my goto Svelte framework
+- [PostCSS](https://postcss.org/) + [TailwindCSS](https://tailwindcss.com) is my favourite CSS combo
+- I use [Actix-Web](https://actix.rs/) (Rust) / [Axum](https://github.com/tokio-rs/axum/) (Rust) / [Phoenix](https://www.phoenixframework.org/) (Elixir) / [HyperExpress](https://github.com/kartikk221/hyper-express/) (Node.js) for servers
+- I use a combination of Julia and Rust for all my scientific needs outside school (which teaches in Python)
 - I am a Physics and Mathematics enthusiast
-- I work on Discord bots using discord.js (TypeScript)
-- I am currently working on a huge project named "Project Sakura"
+- I have been working on a Discord bot -> [sakura-yamauchi](https://github.com/debarchito/sakura-yamauchi/)
+- I am currently working on a huge project. Interpret the following Python code in your head if you want to know the code name of the project (No cheating allowed!):
+```py
+print("".join(["A", "r", "u", "k", "a", "s"]).lower()[::-1].capitalize())
+```
 
 <br>
 
