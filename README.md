@@ -6,7 +6,7 @@
 - [Rust](https://rust-lang.org/) is my primary programming language. Followed by [TypeScript](https://typescriptlang.org/), [Julia](https://julialang.org/), [Elixir](https://elixir-lang.org/) and [Python](https://python.org/)
 - I use [Node.js](https://nodejs.org/) for web development
 - I have been playing with [Deno](https://deno.land/) for a while now
-- [Svelte](https://svelte.dev/) is my goto JavaScript framework
+- [Svelte](https://svelte.dev/) is my goto JavaScript UI framework
 - [SvelteKit](https://kit.svelte.dev/) is my goto Svelte framework
 - [PostCSS](https://postcss.org/) + [TailwindCSS](https://tailwindcss.com) is my favourite CSS combo
 - I use [Actix-Web](https://actix.rs/) (Rust) / [Axum](https://github.com/tokio-rs/axum/) (Rust) / [Phoenix](https://www.phoenixframework.org/) (Elixir) / [HyperExpress](https://github.com/kartikk221/hyper-express/) (Node.js) for servers
