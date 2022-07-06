@@ -14,9 +14,9 @@
 - I use a combination of Julia and Rust for all my scientific needs outside school (which teaches in Python)
 - I am a Physics and Mathematics enthusiast
 - I have been working on a Discord bot named [sakura-yamauchi](https://github.com/debarchito/sakura-yamauchi/)
-- I am currently working on a huge project. Interpret the following Python code in your head if you want to know the code name of the project (No cheating allowed!):
-```py
-print("".join(["A", "r", "u", "k", "a", "s"]).lower()[::-1].capitalize())
+- I am currently working on a huge project. Interpret the following Julia code in your head if you want to know the code name of the project (No cheating allowed!):
+```julia
+println(uppercasefirst(lowercase(reverse(join(["A", "r", "u", "k", "a", "s"])))))
 ```
 
 <br>
