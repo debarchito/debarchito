@@ -2,7 +2,6 @@
 <img src="https://discord-readme-badge.vercel.app/api?id=739497344780992564" alt="Discord" />
 
 ### Debarchito Nath (a.k.a αη∂єω)
-- 18 years old
 - [Rust](https://rust-lang.org/) is my primary programming language. Followed by [TypeScript](https://typescriptlang.org/), [Julia](https://julialang.org/), [Elixir](https://elixir-lang.org/) and [Python](https://python.org/)
 - I also use [Ruby](https://www.ruby-lang.org/) and [PHP](https://www.php.net/). Yes, I enjoy them and I'm not interested to participate in yet another language war. Just use what you like
 - I use [Node.js](https://nodejs.org/) for web development
