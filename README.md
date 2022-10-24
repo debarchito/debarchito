@@ -10,7 +10,7 @@
 - [SvelteKit](https://kit.svelte.dev/) is my goto Svelte framework
 - [PostCSS](https://postcss.org/) + [TailwindCSS](https://tailwindcss.com) is my favourite CSS combo
 - I use [Actix-Web](https://actix.rs/) (Rust) / [Axum](https://github.com/tokio-rs/axum/) (Rust) / [Phoenix](https://www.phoenixframework.org/) (Elixir) / [HyperExpress](https://github.com/kartikk221/hyper-express/) (Node.js) for servers
-- I use a combination of Julia and Rust for all my scientific needs. My courses are in Python tho.
+- I use a combination of Julia and Rust for all my scientific needs. My courses are in Python though
 - I am a Physics and Mathematics enthusiast
 - I have been working on a Discord bot named [sakura-yamauchi](https://github.com/debarchito/sakura-yamauchi/)
 - I am currently working on a huge project. Interpret the following Julia code in your head if you want to know the code name of the project (No cheating allowed!):
