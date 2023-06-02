@@ -2,21 +2,11 @@
 <img src="https://discord-readme-badge.vercel.app/api?id=739497344780992564" alt="Discord" />
 
 ### Debarchito Nath (a.k.a αη∂єω)
-- [Rust](https://rust-lang.org/) is my primary programming language. Followed by [TypeScript](https://typescriptlang.org/), [Julia](https://julialang.org/), [Elixir](https://elixir-lang.org/) and [Python](https://python.org/)
-- I also use [Ruby](https://www.ruby-lang.org/) and [PHP](https://www.php.net/). Yes, I enjoy them and I'm not interested to participate in yet another language war. Just use what you like
-- I use [Node.js](https://nodejs.org/) for web development
-- I have been playing with [Deno](https://deno.land/) for a while now
-- [Svelte](https://svelte.dev/) is my goto JavaScript UI framework
-- [SvelteKit](https://kit.svelte.dev/) is my goto Svelte framework
-- [PostCSS](https://postcss.org/) + [TailwindCSS](https://tailwindcss.com) is my favourite CSS combo
-- I use [Actix-Web](https://actix.rs/) (Rust) / [Axum](https://github.com/tokio-rs/axum/) (Rust) / [Phoenix](https://www.phoenixframework.org/) (Elixir) / [HyperExpress](https://github.com/kartikk221/hyper-express/) (Node.js) for servers
-- I use a combination of Julia and Rust for all my scientific needs. My courses are in Python though
-- I am a Physics and Mathematics enthusiast
-- I have been working on a Discord bot named [sakura-yamauchi](https://github.com/debarchito/sakura-yamauchi/)
-- I am currently working on a huge project. Interpret the following Julia code in your head if you want to know the code name of the project (No cheating allowed!):
-```julia
-println(uppercasefirst(lowercase(reverse(join(["A", "r", "u", "k", "a", "s"])))))
-```
+- [Julia](https://julialang.org/) is my primary programming language. I am kinda required to use [Python](https://python.org/) even tho I don't like it. I also use [Rust](https://rust-lang.org), [Zig](https://ziglang.org), C and ARM ASM (cause I am a masochist ig).
+- I use [Deno](https://deno.land/) for anything [TypeScript](https://www.typescriptlang.org). JavaScript doesn't exist.
+- Used to do frontend; now I don't. I mean I do when I *need* to.
+- I use a combination of Julia, Python and Rust for all my scientific needs. My courses are in Python though.
+- Math nerd.
 
 <br>
 
