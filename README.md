@@ -7,3 +7,8 @@
 - Used to do frontend; now I don't. I mean I do when I *need* to.
 - I use a combination of Julia, Python and Rust for all my scientific needs. My courses are in Python though.
 - Math nerd.
+
+
+### Connect?
+
+[matrix](https://matrix.to/#/@debarchito:matrix.org)
