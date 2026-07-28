@@ -42,7 +42,8 @@
     [generate](https://github.com/debarchito/.bootstrap/blob/main/modules/packages/generate.nix)
     since nixpkgs's default templating system leaves a lot to be desired
     (parameter substitution is one of them). It can scaffold idiomatic projects
-    for OCaml (using [opam-nix](https://github.com/tweag/opam-nix)), Rust (using
+    for Haskell (using [haskell-flake](https://github.com/srid/haskell-flake)),
+    OCaml (using [opam-nix](https://github.com/tweag/opam-nix)), Rust (using
     [crane](https://github.com/ipetkov/crane) for better cache utilization), and
     Python (using [uv2nix](https://github.com/pyproject-nix/uv2nix)). For
     example, get started with a Rust project using:
