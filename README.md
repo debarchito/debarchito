@@ -1,4 +1,4 @@
-- A computer science bachelor's student who likes a good type system.
+- A computer science student who likes a good type system.
 - I maintain [Mapv](https://github.com/debarchito/mapv) as an embeddable and
   hackable tool to learn and experiment with register machines in
   [OCaml](https://ocaml.org). To make tinkering even more fun, it comes equipped
@@ -8,14 +8,21 @@
   thanks Erlang) interface to expose native OCaml functions and values to the
   VM.
 - I am currently researching and building
-  [Miru](https://github.com/debarchito/miru). It is a statically typed Lisp+ML
-  hybrid that uses algebraic effect handlers for all non-local control flow
-  (even errors are just a subset of effects that discard their continuations).
-  The primary objective is to combine the type safety of OCaml with the
-  ergonomics of [Clojure](https://clojure.org) with differences drawn where it
-  makes sense. It was and still is heavily inspired by
-  [Shen](https://shen-language.github.io) and
+  [Miru](https://github.com/debarchito/miru). It is a strictly evaluated
+  functional language that borrows much of its syntax from languages like
+  [Clojure](https://clojure.org),
+  [Carp](https://carp-lang.github.io/carp-website) et al. while implementing the
+  semantics of languages like OCaml and [Haskell](https://www.haskell.org) with
+  great premise on Algebraic Effects and Effect tracking. It was and still is
+  heavily inspired by [Shen](https://shen-language.github.io) and
   [Koka](https://koka-lang.github.io/koka/doc/index.html).
+- I built [Knot](https://github.com/debarchito/knot), a pure λ-calculus
+  reduction engine with optional type inference! I always wanted to experiment
+  with β-reduction, and building a small reduction engine sounded like fun.
+  While untyped λ-calculus is neat, I specifically wanted to implement the
+  simply-typed subsystem (STLC). STLC isn't Turing complete because it enforces
+  strong normalization; but it is a small proof assistant for rudimentary
+  propositional logic via the Curry-Howard Isomorphism.
 - I also like reproducible systems and almost all\[0] of my projects can be
   scaffolded using [Nix](https://nixos.org).
   - Check my bespoke bootstrapping framework
